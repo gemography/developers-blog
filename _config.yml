@@ -23,6 +23,7 @@ twitter_username:
 github_username:  hiddenfounders
 logo: "/assets/logo.svg"
 avatarurl: "/assets/favicon.ico"
+fb_tracking_pixel: 00000
 
 # Build settings
 markdown: kramdown
