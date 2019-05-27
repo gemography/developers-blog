@@ -3,7 +3,11 @@ layout: post
 title:  "Webinar: Interview Hacks for Your Next Tech Job"
 date:   2019-05-27 17:00:00 +0000
 published: true
-image: /assets/interview-hacks.png
+image: 
+    path: /assets/interview-hacks.png
+    height: 1884
+    width: 3600
+description: Join our webinar Saturday, June 1st 2019 to learn more about what it takes not-to-bomb interviews. 
 ---
 
 If you're interested in knowing more about what it takes not-to-bomb a tech interview. You've come to the right place.
