@@ -3,6 +3,7 @@ layout: post
 title:  "Webinar: Interview Hacks for Your Next Tech Job"
 date:   2019-05-27 17:00:00 +0000
 published: true
+image: /assets/interview-hacks.png
 ---
 
 If you're interested in knowing more about what it takes not-to-bomb a tech interview. You've come to the right place.
