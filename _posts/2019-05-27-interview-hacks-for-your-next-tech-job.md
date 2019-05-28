@@ -22,9 +22,13 @@ Based on our experience interviewing 1000+ engineers and collaborating with tech
 
 Join us this **Saturday, June 1st 2019 at 4:30 PM (UTC)** for a discussion with United Remote Co-founder and VP of Engineering **Zack Braksa** around "Interview Hacks for Your Next Tech Job". 
 
+[Sign up to attend the webinar](https://unitedremote.typeform.com/to/H2TB9g)
+
 This particular webinar is invite-only (sorry about that). But we really value having a conversation with all attendees, answer their questions and get to know their background.
 
-[You can apply to attend the webinar over here](https://unitedremote.typeform.com/to/H2TB9g)
+Wannabe the 1st to hear about future webinars ? [Subscribe to our newsletter](http://eepurl.com/gsZlKX).
 
 For any questions or feedback prior to the webinar, please reach out to zack[at]unitedremote[dot]com
+
+
 
