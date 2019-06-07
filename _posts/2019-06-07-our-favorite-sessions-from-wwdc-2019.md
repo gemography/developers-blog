@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Our favorite sessions from WWDC 2019"
+title:  "Top 20 sessions from WWDC 2019"
 date:   2019-06-07 18:00:00 +0000
 published: true
 image: 
-    path: /assets/interview-hacks.png
+    path: /assets/top-20-wwdc-2019.png
     height: 1884
     width: 3600
-description: 
+description: Our 20 favorite video sessions from WWDC 2019.
 ---
 
 Like every year, Apple's WWDC comes about and with it comes a plethora of new announcements and improvements across all platforms. This year was no exception. iOS got a new dark mode. macOS got a new name (and few improvements/features). We even got iPadOS now. 
@@ -19,7 +19,6 @@ If you're like us and you enjoy WWDC sessions as much as the main keynote, we've
 
 ## Xcode 11
 * [What's New in Xcode 11](https://developer.apple.com/videos/play/wwdc2019/401/)
-* [Creating Great Localized Experiences with Xcode 11](https://developer.apple.com/videos/play/wwdc2019/403/)
 * [Getting Started with Instruments](https://developer.apple.com/videos/play/wwdc2019/411/)
 * [Debugging in Xcode 11](https://developer.apple.com/videos/play/wwdc2019/412/)
 * [Mastering Xcode Previews](https://developer.apple.com/videos/play/wwdc2019/233/)
@@ -48,7 +47,6 @@ If you're like us and you enjoy WWDC sessions as much as the main keynote, we've
 ## Misc 
 * [Combine in Practice](https://developer.apple.com/videos/play/wwdc2019/721/)
 * [What's New in App Store Connect](https://developer.apple.com/videos/play/wwdc2019/301/)
-* [What's New in Clang and LLVM](https://developer.apple.com/videos/play/wwdc2019/409/)
 * [Introducing Combine and Advances in Foundation](https://developer.apple.com/videos/play/wwdc2019/711/)
 
 
