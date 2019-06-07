@@ -1,20 +1,20 @@
 ---
 layout: post
-title:  "Top 20 sessions from WWDC 2019"
+title:  "Our top 20 sessions from WWDC 2019"
 date:   2019-06-07 18:00:00 +0000
 published: true
 image: 
     path: /assets/top-20-wwdc-2019.png
     height: 1884
     width: 3600
-description: Our 20 favorite video sessions from WWDC 2019.
+description: If you're like us and you enjoy WWDC sessions as much as the keynote, we've got you covered with a list of our top 20 video sessions from WWDC 2019.
 ---
 
 Like every year, Apple's WWDC comes about and with it comes a plethora of new announcements and improvements across all platforms. This year was no exception. iOS got a new dark mode. macOS got a new name (and few improvements/features). We even got iPadOS now. 
 
 But it's impossible to talk about WWDC 2019 without talking about Xcode 11 and SwiftUI. 
 
-If you're like us and you enjoy WWDC sessions as much as the main keynote, we've compiled here a list of our favorite sessions from this year's WWDC: 
+If you're like us and you enjoy WWDC sessions as much as the main keynote, we've got you covered with a list of our favorite sessions from this year's WWDC: 
 
 
 ## Xcode 11
