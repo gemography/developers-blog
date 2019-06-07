@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Our favorite sessions from WWDC 2019"
-date:   2019-05-27 17:00:00 +0000
+date:   2019-06-07 18:00:00 +0000
 published: true
 image: 
     path: /assets/interview-hacks.png
     height: 1884
     width: 3600
-description: Join a webinar Saturday, June 1st 2019 to learn more about what it takes not-to-bomb interviews. 
+description: 
 ---
 
 Like every year, Apple's WWDC comes about and with it comes a plethora of new announcements and improvements across all platforms. This year was no exception. iOS got a new dark mode. macOS got a new name (and few improvements/features). We even got iPadOS now. 
