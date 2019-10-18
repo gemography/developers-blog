@@ -26,7 +26,7 @@ Join us this **Saturday, June 1st 2019 at 4:30 PM (UTC)** for a discussion with 
 
 This particular webinar is invite-only (sorry about that). But we really value having a conversation with all attendees, answer their questions and get to know their background.
 
-Wannabe the 1st to hear about future webinars ? [Subscribe to our newsletter](http://eepurl.com/gsZlKX).
+Wannabe the 1st to hear about future webinars ? [Subscribe to our newsletter](http://eepurl.com/gqfdZ9).
 
 For any questions or feedback prior to the webinar, please reach out to zack[at]unitedremote[dot]com
 
