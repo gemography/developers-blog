@@ -4,7 +4,7 @@ title:  "Weekly Tech Digest #2"
 date:   2019-10-18 10:00:00 +0000
 published: true
 image: 
-    path: /assets/tech-digest-2.png
+    path: /assets/tech-digest-22.png
     height: 628
     width: 1200
 description: Most noteworthy blog posts, dev tools & noteworthy open source projects, curated by the team at United Remote.
